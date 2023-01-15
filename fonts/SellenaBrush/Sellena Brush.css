@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sellena Brush';
+    src: url('fonts/SellenaBrush-x3JyK.eot');
+    src: url('fonts/SellenaBrush-x3JyK.eot?#iefix') format('embedded-opentype'),
+         url('fonts/SellenaBrush-x3JyK.woff2') format('woff2'),
+         url('fonts/SellenaBrush-x3JyK.woff') format('woff'),
+         url('fonts/SellenaBrush-x3JyK.ttf')  format('truetype'),
+         url('fonts/SellenaBrush-x3JyK.svg#Sellena Brush') format('svg');
+}
